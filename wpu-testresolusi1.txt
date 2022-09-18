@@ -2,4 +2,6 @@ WPU testing resoulusi programming
 - Belajar python dalam 1 minggu 1-2 kali 
 - Belajar python untuk aplikasi geosciences
 - Belajar AI untuk geosciences
-- Membuat aplikasi geophysics dengan python
+- Membuat aplikasi geophysics maupun geosciences umum dengan python
+
+
